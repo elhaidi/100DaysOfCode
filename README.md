@@ -1,3 +1,3 @@
 # 100DaysOfCode
 
-Material and hands out for !00 days of code with Python.
+Material and hands out for 100 days of code with Python.
