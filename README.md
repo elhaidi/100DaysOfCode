@@ -8,3 +8,5 @@ finished working with datetime module and done the problem suggested on pybites.
 Starting woking on a the pomodro app using datetime modules.
 ## Day 3: 
 Conitnue working on the pomodoro and started studying the collection module.
+## Day 4:
+made more update on the pomodoro app, and started learning more about testing with pytest.
