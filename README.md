@@ -10,3 +10,6 @@ Starting woking on a the pomodro app using datetime modules.
 Conitnue working on the pomodoro and started studying the collection module.
 ## Day 4:
 made more update on the pomodoro app, and started learning more about testing with pytest.
+
+## Day 5:
+Pytest and more example have been tried.
